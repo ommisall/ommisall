@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ommisall
-- 👀 I’m interested in debugging and problem solving 
+- 👀 I’m interested in debugging ,problem solving and aspiring SDE 
 - 🌱 I’m currently learning Java DSA 
 - 📫 Reach me ommisal165@gmail.com
 
