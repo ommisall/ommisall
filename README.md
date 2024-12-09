@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Java DSA 
 - 💞️ I’m looking for freelancing opportunity 
 - 📫 How to reach me - ommisal165@gmail.com
+- I'll upload my project repository from January onwards.
+
 
 
 <!---
