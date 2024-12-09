@@ -1,5 +1,4 @@
-- 👋 Hi, there 
-- I'll upload my project repository from January onwards.
+👋 Hi, there 
 
 
 
