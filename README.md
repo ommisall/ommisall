@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ommisall
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning Java DSA 
-- 💞️ I’m looking for freelancing opportunity 
-- 📫 How to reach me - ommisal165@gmail.com
+- 👋 Hi, there 
 - I'll upload my project repository from January onwards.
 
 
